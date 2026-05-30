@@ -2,8 +2,8 @@
 
 Data Downloads
 
-1. Fuxi-S2S: https://huggingface.co/datasets/FudanFuXi/FuXi-S2S(can be used using api/ testing done ☑️) - resolution-0.5
+1. Fuxi-S2S: https://huggingface.co/datasets/FudanFuXi/FuXi-S2S
 
-3. Spire S2S: https://app.earthmover.io/marketplace/6a17285ae02a30ff1bc5204b
+3. Spire S2S: https://app.earthmover.io/marketplace/6a17285ae02a30ff1bc5204b (can be used using api/ testing done ☑️) - resolution-0.5
 
-4. ARCO-ERA5: https://github.com/manmeet3591/download_era5/blob/main/download_arco_era5.ipynb(can be used using api/ testing done ☑️)-0.25
+4. ARCO-ERA5: https://github.com/manmeet3591/download_era5/blob/main/download_arco_era5.ipynb (can be used using api/ testing done ☑️)-0.25
